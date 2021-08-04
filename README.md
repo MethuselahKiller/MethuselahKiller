@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Methuselah The Killer;
+- 👀 I’m interested in Hacking and Cracking;
+- 🌱 I’m currently learning Python Linux Shell Html PHP Java JS CSS++;
+- 💞️ I’m looking to collaborate on HackersWorld;
+- 🤔 I'm looking for New Programming methods;
+- 💬 Ask me about anything related to Hacks, I'm ready to help;
+- 😎 I'm still a student
+- 📫 You can reach me through my gmail ⏩ methuselahkiller@gmail.com;
